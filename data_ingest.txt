@@ -1,4 +1,8 @@
 This is another data ingestion file
 Debasmit here. I am actively working on this file.
+<<<<<<< HEAD
 I am ingesting the data.
+=======
+I like ingesting data.
+>>>>>>> bugfix
 I am ingesting more data.
